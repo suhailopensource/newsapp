@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Manish Singh",
+    "title": "Indian fintech KreditBee nears $700 million valuation in new funding",
+    "description": "KreditBee's new funding, led by Advent International, values the Bengaluru-headquartered startup at about $680 million, a source said.",
+    "url": "https://techcrunch.com/2023/01/06/indian-fintech-kreditbee-nears-700-million-valuation-in-new-funding/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-691021198.jpg?resize=1200,800",
+    "publishedAt": "2023-01-06T09:49:20Z",
+    "content": "Indian fintech KreditBee has raised an additional $100 million in a funding round, it said, as the lender looks to scale its business in the South Asian market.\r\nThe new cash infusion is part of the … [+1931 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kate Park",
+    "title": "Samsung’s quarterly profit hits 8-year low amid weak demand for memory chips, smartphones",
+    "description": "Samsung Electronics' operating profit plummeted 69% to $3.4 billion in the quarter that ended in December to an eight-year-low.",
+    "url": "https://techcrunch.com/2023/01/06/samsungs-quarterly-profit-hits-8-year-low-amid-weak-demand-for-memory-chips-smartphones/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-838665586.jpg?resize=1200,800",
+    "publishedAt": "2023-01-06T09:01:43Z",
+    "content": "Samsung Electronics’ operating profit plummeted 69% to $3.4 billion in the quarter that ended in December to an eight-year low, according to its preliminary estimates, as the global demand for memory… [+2811 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "Snap is shutting down its desktop camera app that allows users to apply filters during video calls",
+    "description": "Snap is shutting down its camera for desktop that allows users to apply filters during video calls on January 25, 2023.",
+    "url": "https://techcrunch.com/2023/01/05/snap-is-shutting-down-its-desktop-camera-app-that-allows-users-to-apply-filters-during-video-calls/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/Snap-Camera_UI-2.png",
+    "publishedAt": "2023-01-06T07:54:54Z",
+    "content": "Snap is shutting down its camera app for the desktop that allows users to apply filters like cat ears and pirate hats on video calls. The company said on a support page that the product will be disco… [+2142 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Matt Burns",
+    "title": "Tesla slashes Model 3, Model Y prices in China for the second time in three months",
+    "description": "Earlier today, Tesla quietly announced new pricing for the China market. The Model 3 and Model Y saw their prices cut drastically, and Tesla finally revealed the pricing for the high performance Plaid edition of the Model S and Model Y, both of which were not…",
+    "url": "https://techcrunch.com/2023/01/05/tesla-slashes-model-3-model-y-prices-in-china-for-the-second-time-in-three-months/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+    "publishedAt": "2023-01-06T02:36:27Z",
+    "content": "Earlier today, Tesla quietly announced new pricing for the China market. The Model 3 and Model Y saw their prices cut drastically, and Tesla finally revealed the pricing for the high performance Plai… [+2003 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Devin Coldewey",
+    "title": "Today at CES: Baby wearables, texts from dogs, and E-Ink cars",
+    "description": "It's the first official day of CES and our team has already located dozens of the coolest new gadgets, features, and weird concept cars.",
+    "url": "https://techcrunch.com/2023/01/05/today-at-ces-baby-wearables-texts-from-dogs-and-e-ink-cars/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/ces-2023-splash.jpg?resize=1200,675",
+    "publishedAt": "2023-01-06T01:25:13Z",
+    "content": "It’s the first official day of CES and our team has already located dozens of the coolest new gadgets, features, and weird concept cars that probably will never see the light of day.\r\nHalo (not Amazo… [+4972 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "Studiobox is a remote video team's high-def dream",
+    "description": "The COVID-19 pandemic brought video production to its knees, but the show must go on, and necessity is the mother of invention. Studiobox leapt into the breech, creating an interview studio in a box. For the interviewee, a rugged case shows up, delivered by a…",
+    "url": "https://techcrunch.com/2023/01/05/studiobox-at-ces/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/IMG_2483.jpg?resize=1200,800",
+    "publishedAt": "2023-01-06T01:15:14Z",
+    "content": "The COVID-19 pandemic brought video production to its knees, but the show must go on, and necessity is the mother of invention. Studiobox leapt into the breech, creating an interview studio in a box.… [+7668 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "EcoFlow teases full-house battery backup coming later this year",
+    "description": "Today at its special launch event, home backup power giant EcoFlow launched a flurry of new products, including a ‘Whole-home Backup Power Solution.’ The company also launched a battery-powered fridge and a portable battery-powered air conditioning unit, whic…",
+    "url": "https://techcrunch.com/2023/01/05/ecoflow-launches-battery-backup-a-lawnmower-a-portable-a-c-and-a-portable-fridge/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/lawnmower-Large.jpeg?resize=1200,735",
+    "publishedAt": "2023-01-05T23:12:24Z",
+    "content": "Today at its special launch event, home backup power giant EcoFlow launched a flurry of new products, including a ‘Whole-home Backup Power Solution.’ The company also launched a battery-powered fridg… [+4400 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "As NYC public schools block ChatGPT, OpenAI says it's working on 'mitigations' to help spot ChatGPT-generated text",
+    "description": "New York City public schools have banned ChatGPT, but OpenAI says it's committed to addressing concerns about the tech in education.",
+    "url": "https://techcrunch.com/2023/01/05/as-nyc-public-schools-block-chatgpt-openai-says-its-working-on-mitigations-to-help-spot-chatgpt-generated-text/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/getty-school-bus.jpg?resize=1200,800",
+    "publishedAt": "2023-01-05T22:36:38Z",
+    "content": "New York City public schools have restricted access to ChatGPT, the AI system that can generate text on a range of subjects and in various styles, on school networks and devices. As widely reported t… [+5134 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "Daily Crunch: In layoff update, Amazon CEO tells workers 'we plan to eliminate just over 18,000 roles'",
+    "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+    "url": "https://techcrunch.com/2023/01/05/daily-crunch-in-layoff-update-amazon-ceo-tells-workers-we-plan-to-eliminate-just-over-18000-roles/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1232458870.jpg?resize=1200,800",
+    "publishedAt": "2023-01-05T22:08:27Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.\r\nHello, I hope it is a great Thursday for you so far. For me, its t… [+5577 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec",
+    "title": "Stellantis launches new business unit to turn vehicle data into cash",
+    "description": "Stellantis launched a new business unit called Mobilisights dedicated to turning all that vehicle data into marketable products — and revenue.",
+    "url": "https://techcrunch.com/2023/01/05/stellantis-launches-new-business-unit-to-turn-vehicle-data-into-cash/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1399944506.jpg?resize=1200,701",
+    "publishedAt": "2023-01-05T20:25:35Z",
+    "content": "Stellantis is launching a new business unit dedicated to turning all that vehicle data into marketable products and revenue.\r\nThe business unit called Mobilisights, which was announced Thursday at CE… [+2955 chars]"
+    }
+    ]
+    }
